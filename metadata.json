@@ -1,0 +1,8 @@
+{
+  "name": "مخزوني - لوحة تحكم المبيعات والمخزون",
+  "description": "نظام إدارة المبيعات والمخزون والفواتير مع مزامنة لحظية عبر قاعدة بيانات Supabase وتنبيهات فورية لنواقص المنتجات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
